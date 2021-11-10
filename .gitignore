@@ -1,0 +1,4 @@
+*.log
+.secrets.cfg
+.vscode
+data/
